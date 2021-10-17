@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "criteria_id": "c1",
+            "criteria_title": "Criteria 1",
+            "criteria_status": "Approved",
+            "criteria_link": "http://here",
+            "intervention_id": "i1_1",
+            "intervention_nr": 1.1,
+            "intervention_title": "Intervention 1"
+        }
+    ]
+}

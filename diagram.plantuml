@@ -1,0 +1,29 @@
+@startuml
+hide stereotype
+hide circle
+skinparam linetype polyline
+'!pragma graphviz_dot smetana
+
+
+  package " Artifacts   " as INT #FCF7FF {
+    class "**Interventions**" as p #EEE {
+--
+|_ name 0..1
+|_ identifier 0..*   
+--
+Patient  
+        }
+    file ghr #DEF [
+        **Feature**
+        |_ identifier
+        |_ type
+        |_ period
+        |_ indication
+        |_ recorder
+        |_ record_date
+        |_ last_updated
+        |_ criteria
+]
+
+}
+@enduml
