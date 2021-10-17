@@ -14,11 +14,7 @@ $(document).ready(function () {
       { "data": "criteria_status" },
       { "data": "intervention_id", render: function (nTd, sData, oData, iRow, iCol) {
         return  oData.intervention_nr+': '+oData.intervention_title;
-      }},
-      { "data": "topic", render: function (data) {
-          return '<a class="button" href="#">Link</a>';
-        }
-      }
+      }}
     ],
     initComplete: function () {
       count = 0;
