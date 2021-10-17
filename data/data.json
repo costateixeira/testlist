@@ -1,13 +1,1 @@
-{
-    "data": [
-        {
-            "criteria_id": "c1",
-            "criteria_title": "Criteria 1",
-            "criteria_status": "Approved",
-            "criteria_link": "http://here",
-            "intervention_id": "i1_1",
-            "intervention_nr": 1.1,
-            "intervention_title": "Intervention 1"
-        }
-    ]
-}
+{"data": [{"criteria_id": "c1", "criteria_title": "Criteria 1", "criteria_status": "Approved", "criteria_link": "http://here", "intervention_id": "i1_1", "intervention_nr": 1.1, "intervention_title": "Intervention 1.1"}, {"criteria_id": "c2", "criteria_title": "Criteria 2", "criteria_status": "Approved", "criteria_link": "http://here", "intervention_id": "i1_1", "intervention_nr": 1.1, "intervention_title": "Intervention 1.1"}, {"criteria_id": "c3", "criteria_title": "Criteria 3", "criteria_status": "Approved", "criteria_link": "http://here", "intervention_id": "i1_1", "intervention_nr": 1.2, "intervention_title": "Intervention 1.2"}, {"criteria_id": "c4", "criteria_title": "Criteria 4", "criteria_status": "Approved", "criteria_link": "http://here", "intervention_id": "i1_1", "intervention_nr": 2.0, "intervention_title": "Intervention 2"}]}
