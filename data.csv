@@ -1,2 +1,5 @@
 criteria_id;criteria_title;criteria_status;criteria_link;intervention_id;intervention_nr;intervention_title
-c1;Criteria 1;Approved;http://here;i1_1;1.1;Intervention 1
+c1;Criteria 1;Approved;http://here;i1_1;1.1;Intervention 1.1
+c2;Criteria 2;Approved;http://here;i1_1;1.1;Intervention 1.1
+c3;Criteria 3;Approved;http://here;i1_1;1.2;Intervention 1.2
+c4;Criteria 4;Approved;http://here;i1_1;2;Intervention 2
