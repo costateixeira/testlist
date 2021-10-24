@@ -197,7 +197,7 @@
 
 #version::after
 {
-  content: "May 2021";
+  content: "";
 }
 
 .dataTables_filter input { width: 100px }
