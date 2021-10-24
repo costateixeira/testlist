@@ -195,10 +195,6 @@
 #right{float:right;width:100px;margin-right: 210px;}
 #center{margin:0 auto;width:800px;color: maroon; text-align: center;}
 
-#version::after
-{
-  content: "";
-}
 
 .dataTables_filter input { width: 100px }
 
