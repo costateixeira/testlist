@@ -197,7 +197,7 @@
 
 #version::after
 {
-  content: " ";
+  content: " <br/>";
 }
 .dataTables_filter input { width: 100px }
 
